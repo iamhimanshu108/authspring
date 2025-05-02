@@ -1,5 +1,0 @@
-# Created at 2025-05-02T08:49:51.192
-Boot Manifest-JAR contains absolute paths in classpath 'D:\authwala\Auth\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
